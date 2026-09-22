@@ -1,4 +1,4 @@
-# LAB 3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
+## LAB 3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
 
 ## 1. Thông tin sinh viên
 
@@ -54,3 +54,5 @@
 | H4_Defender_EICAR_Log.png | Log phát hiện EICAR |
 | H5_Event4625.png | Đăng nhập thất bại – Event 4625 |
 | H5_Event4624.png | Đăng nhập thành công – Event 4624 |
+## 5. Kênh Youtube
+https://www.youtube.com/@HungNguyen-zv9su
